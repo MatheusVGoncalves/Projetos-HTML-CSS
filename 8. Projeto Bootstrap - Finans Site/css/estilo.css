@@ -1,0 +1,31 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+#area1 {
+	z-index: 1;
+}
+
+#area2 {
+	z-index: 0;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
+
+
+
+#rodape {
+	height: 200px;
+	padding: 15px;
+	background: #ccc;
+}
+
+
